@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+lab0_1_modesolver.egg-info/PKG-INFO
+lab0_1_modesolver.egg-info/SOURCES.txt
+lab0_1_modesolver.egg-info/dependency_links.txt
+lab0_1_modesolver.egg-info/requires.txt
+lab0_1_modesolver.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+gdsfactory==9.19.0
+gplugins[femwell,sax,tidy3d]~=2.0.0
+tidy3d
+scipy>=1.16.3
+pytz
